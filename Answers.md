@@ -6,7 +6,7 @@
 
 
 #### 1.(a) By making use of an example from the above scenario, distinguish between a class and an instantiation of a class. (3 points)
-> A class is a blueprint or template that defines the properties and behaviors of objects. An instantiation of a class, also known as an object, is a specific instance created based on that class.
+> A class is a blueprint that defines the properties and behaviors of objects. An instantiation of a class, also known as an object, is a specific instance created based on that class.
 
 #### The different modules in the program each open a graphical user interface (GUI). Each GUI has a similar design but contains differences specific to each module.
 
