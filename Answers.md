@@ -24,3 +24,6 @@
 #### (a) Complete the constructor public SalesPerson(String id), from the SalesPerson class. (2 points)
 >![image](https://github.com/RandomKings/forum-oop/assets/127679190/5ef0867b-9800-4f2c-b11a-3f03c3cf1ee8)
 
+#### (b) Explain why accessor methods are necessary for the SalesPerson class. (3 points)
+> Accessor methods are necessary in the SalesPerson class to access the private instance variables (such as id, salesHistory) from outside the class. They allow other parts of the program to retrieve the values of these variables, providing necessary information and encapsulation.
+
