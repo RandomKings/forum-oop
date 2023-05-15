@@ -16,7 +16,7 @@
 >Creating a base class for employee salaries and deriving subclasses for managers, office staff, and sales personnel, inheriting the common salary functionality.
 
 #### (c) Describe how the use of libraries can facilitate the development of programs like this company’s administration program. (3 points)
-> The use of libraries can facilitate development by providing pre-built code modules that offer specific functionalities. These libraries save time and effort as developers can leverage existing code rather than starting from scratch. It promotes code reuse, >improves efficiency, and allows developers to focus on the core aspects of the program.
+> The use of libraries can facilitate development by providing pre-built code modules that offer specific functionalities. These libraries save time and effort as developers can leverage existing code rather than starting from scratch. It promotes code reuse, improves efficiency, and allows developers to focus on the core aspects of the program.
 
 #### 2. The company employs several sales personnel to sell its products to different retailers. Each branch of the company keeps track of its own sales with a suite of programs that include the two classes SalesPerson and Sales.
 
