@@ -15,4 +15,5 @@
 >Having a base class for GUI design with common features, and deriving specific GUI classes for each module with additional unique features.
 >Creating a base class for employee salaries and deriving subclasses for managers, office staff, and sales personnel, inheriting the common salary functionality.
 
-(c) The use of libraries can facilitate development by providing pre-built code modules that offer specific functionalities. These libraries save time and effort as developers can leverage existing code rather than starting from scratch. It promotes code reuse, improves efficiency, and allows developers to focus on the core aspects of the program.
+#### (c) Describe how the use of libraries can facilitate the development of programs like this company’s administration program. (3 points)
+> The use of libraries can facilitate development by providing pre-built code modules that offer specific functionalities. These libraries save time and effort as developers can leverage existing code rather than starting from scratch. It promotes code reuse, > > >improves efficiency, and allows developers to focus on the core aspects of the program.
