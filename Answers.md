@@ -60,9 +60,11 @@ SalesPerson "1" -- "*" Sales : contains
 
 #### (d) State the output after running this code. (4 points)
 >102
-2
-2550.4
-5000.0
+>2
+>2550.4
+>5000.0
+>![image](https://github.com/RandomKings/forum-oop/assets/127679190/b2566fe6-3f70-47c1-b612-aa93056ad840)
+
 
 #### (e) Construct the method calcTotalSales(), in the SalesPerson class that calculates the total value of the sales for a specific SalesPerson object. (5 points)
 >![image](https://github.com/RandomKings/forum-oop/assets/127679190/0a95d8c7-4390-4545-bae4-9e51046fe53b)
