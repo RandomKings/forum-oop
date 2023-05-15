@@ -26,7 +26,7 @@
 
 
 #### (b) Explain why accessor methods are necessary for the SalesPerson class. (3 points)
-> Accessor methods are necessary in the SalesPerson class to access the private instance variables (such as id, salesHistory) from outside the class. They allow other parts of the program to retrieve the values of these variables, providing necessary information and encapsulation.
+> Accessor methods are necessary in the SalesPerson class to access the private instance variables from outside the class. They allow other parts of the program to retrieve the values of these variables, providing necessary information and encapsulation.
 
 #### (c) (i) Construct unified modelling language (UML) diagrams to clearly show the relationship between the SalesPerson and Sales classes.
 Note: There is no need to include mutator or accessor methods or a constructor. (4 points)
@@ -76,12 +76,12 @@ SalesPerson "1" -- "*" Sales : contains
 
 #### (g) Construct the method addSales(Sales s, String id), in the Driver class, that will add a new Sales object s, to the salesperson with a specified ID.
 Note: 
-fcan assume that the ID is a valid one. (4 points)
+can assume that the ID is a valid one. (4 points)
 >![image](https://github.com/RandomKings/forum-oop/assets/127679190/c494ce95-f7f0-4502-a9b5-2460a01be8ff)
 
 #### A further class in this suite of programs is the Payroll class. This class is run at the end of each month to calculate each salesperson’s salary, which is based on the sales that have been made during that month.
 #### (h) Suggest changes that must be made to the SalesPerson class and/or the Sales class to allow these calculations to be made. (3 points)
->To enable salary calculations based on sales, we can introduce additional instance variables and methods to the SalesPerson class
+>To enable salary calculations based on sales, we can introduce additional instance variables and methods to the SalesPerson class like to calculate salaries based on sales, you can add a new instance variable monthlySalary to the SalesPerson class.
 
 #### (i) Discuss the use of polymorphism that occurs in this suite of programs. (3 points)
 >Polymorphism is demonstrated in the suite of programs through the use of inheritance and method overriding.
